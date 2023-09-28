@@ -65,8 +65,10 @@ button:focus {
 
 #valor-actual {
     font-size: 1.5em;
+    color: black;
 }
 
 #valor-anterior {
     font-size: 2em;
+    color: black;
 }
